@@ -14,8 +14,7 @@
 #### **Popular Dishes:**
 #### Certain dishes, such as Spaghetti, Caesar Salad, and Grilled Chicken, were ordered more frequently, indicating their popularity among users.
 
-#### **Order Trends Over Time:**
-Orders hit the maximum during specific months, pointed to possible preference for different seasons.
+#### **Order Trends Over Time:** #### Orders hit the maximum during specific months, pointed to possible preference for different seasons.
 
 #### **Session Duration and Order Completion:**
 #### Longer cooking sessions correlated with a higher likelihood of completed orders.
